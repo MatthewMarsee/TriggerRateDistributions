@@ -11,12 +11,12 @@
 ## INSTRUCTIONS:
 
 ### Option 1: Python notebook
-* Open ```plotTriggerRateDist.ipynb```
-* Change the ```station``` variable
-* Run all cells, histogram of distribution will save to 
+* Open ```plotTriggerRateDist.ipynb```.
+* Change the ```station``` variable.
+* Run all cells.
 
 ### Option 2: Python Script
-For "station xx"
+For "station xx":
 
 * ```python3 plotTriggerRateDist.py -s xx```
   
