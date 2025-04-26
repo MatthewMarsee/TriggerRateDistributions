@@ -1,4 +1,4 @@
-import argparse
+from optparse import OptionParser
 from procfunc import *
 from rnog_data.runtable import RunTable #***YOU MAY NEED TO CHANGE THIS***
 
