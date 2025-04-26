@@ -23,7 +23,9 @@
 For "station xx"
 
 * ```python3 plotTriggerRateDist.py -s xx```
-or  
+  
+or
+
 * ```python3 plotTriggerRateDist.py --station xx```
 
 A png of the histogram(s) will be saved in the working directory.
