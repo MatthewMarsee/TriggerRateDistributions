@@ -2,9 +2,9 @@ import numpy as np
 import csv
 import math
 
+import matplotlib as mpl
 import matplotlib.pyplot as plt
 plt.rcParams['axes.facecolor'] = 'white'
-import matplotlib as mpl
 mpl.rcParams['figure.dpi'] = 300
 
 import warnings
