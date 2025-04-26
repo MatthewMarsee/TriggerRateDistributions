@@ -6,7 +6,7 @@
 
 ## REQUIREMENTS:
 ### Non-Standard Python Imports:
-* Download RNO-G Runtable and follow installation instructions. (https://github.com/RNO-G/rnog-runtable)
+* Clone the RNO-G Runtable and follow installation instructions. (https://github.com/RNO-G/rnog-runtable)
   * Add directory to your $PYTHONPATH in your ```~/.zshrc/``` or ```~/.bashrc``` file. <br/> (export ```PYTHONPATH=/path/to/rnog-runtable:$PYTHONPATH``` )
 
 
