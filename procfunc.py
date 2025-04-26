@@ -7,6 +7,9 @@ plt.rcParams['axes.facecolor'] = 'white'
 import matplotlib as mpl
 mpl.rcParams['figure.dpi'] = 300
 
+import warnings
+warnings.filterwarnings("ignore", category=UserWarning)
+
 stations = [11,12,13,14,21,22,23,24]
 colors = ['yellow','orange','red','magenta','lawngreen','cyan','blue','purple']
 
